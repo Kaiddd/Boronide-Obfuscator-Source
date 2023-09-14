@@ -1,0 +1,1 @@
+Stack[|A|]	= Upvalues[|B|];
