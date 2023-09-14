@@ -9,7 +9,7 @@ Fixed readme file<br>
 Fixed package.json (If this was not intended feel free to privately contact me Herrtt)<br>
 Removed imgs folder (If this was not intended feel free to privately contact me Herrtt)<br><br>
 **THIS CODE IS PROTECTED BY THE AGPL-3.0 LICENSE, AND THIS REPO DOES NOT BREAK THE AFOREMENTIONED LICENSE.**<br>
-**Herrtt I have nothing against you xx, I am just a believer in the GPL license, if you wish for me to take down *parts* of the code privately, feel free to contact me at kaed.e**
+**Herrtt I have nothing against you xx, I am just a believer in the GPL license, if you wish for me to take down or make changes to parts of the code privately, feel free to contact me at kaed.e**
 
 
 ## Feautures
