@@ -1,4 +1,3 @@
-![bc_background](https://github.com/Kaiddd/Boronide-Obfuscator-Source/blob/main/img/bc_background.jpg?raw=true)
 # Boroide(tm) V0.2.4
 
 # Legality:
