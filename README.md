@@ -1,5 +1,7 @@
 # Boroide(tm) V0.2.4
 
+Fork of https://github.com/Herrtt/Boronide-Obfuscator | Dead repo | [Archive](https://web.archive.org/web/20220226003911/https://github.com/Herrtt/Boronide-Obfuscator)
+
 # Legality:
 All of this code is copyrighted and licensed under AGPL-3.0, and is owned by [Herrtt](https://github.com/Herrtt)<br>
 [Original source](https://web.archive.org/web/20220226003911/https://github.com/Herrtt/Boronide-Obfuscator)<br>
