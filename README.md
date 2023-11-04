@@ -14,7 +14,7 @@ Removed imgs folder (If this was not intended feel free to privately contact me 
 **Herrtt I have nothing against you xx, I am just a believer in the GPL license, if you wish for me to take down or make changes to parts of the code privately, feel free to contact me at kaed.e**
 
 
-## Feautures
+## Features
 * Instruction Shuffle
 * Constant Shuffle
 * Fake Constants
