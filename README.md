@@ -31,5 +31,5 @@ $ cd src && node run.js
 
 # License
 
-Any modifications or distributions of this open-source software must be made available with full access to the source, and the owner of Boronide(tm) ("Herrtt") reserve the right to end your use of the software if believed any prohibited activities at Herrtt's sole discretion.
+Any modifications or distributions of this open-source software must be made available with full access to the source, """and the owner of Boronide(tm) ("Herrtt") reserve the right to end your use of the software if believed any prohibited activities at Herrtt's sole discretion"""(Non binding, however please listen to Herrtt if you receive a legal or reasonable moral ask).
 ![GNU AGPLv3](/LICENSE)
